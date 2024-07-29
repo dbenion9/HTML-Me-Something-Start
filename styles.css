@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+/* Element Selector */
+body {
+    margin: 8px;
+    display: block;
+}
+
+/* ID Selector */
+#mainHeading {
+    color: red;
+    /* Additional styling of your choice */
+    font-size: 2em;
+    text-align: center;
+}
+
+/* Class Selector */
+.funParagraph {
+    color: green;
+    /* Additional styling of your choice */
+    font-style: italic;
+    padding: 10px;
+}
+
+/* Class Selector for Image Size */
+.small-image {
+    width: 300px;
+    height: auto; /* Maintain aspect ratio */
+}
