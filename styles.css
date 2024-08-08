@@ -3,7 +3,7 @@
 body {
     margin: 8px;
     display: block;
-    background: linear-gradient(to right, green, white, red);
+    background: linear-gradient(to right, green,white, white, red);
 }
 
 /* ID Selector */
